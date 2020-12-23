@@ -57,6 +57,7 @@
                                 <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
                                 <addClasspath>true</addClasspath>
                                 <mainClass>ru.idcore.Main</mainClass>
+                                <packageName>ru.idcore</packageName>
                                 <classpathPrefix>lib/</classpathPrefix>
                             </manifest>
                         </archive>
