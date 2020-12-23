@@ -1,7 +1,8 @@
 ### 03.04 «Сборка проектов. Maven и Gradle»
 
 Задача 03.04.01: Многомодульный проект на Maven
-MANIFEST.MF
+
+###### MANIFEST.MF
 ~~~text
 Manifest-Version: 1.0
 Created-By: Apache Maven 3.6.1
